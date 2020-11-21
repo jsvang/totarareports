@@ -1,5 +1,5 @@
 # totarareports
-List of custom totara reports pulled from the totara shadow DB
+List of custom totara reports pulled from the totara 11 schema
 
 (1) Course_status_reports queries the status of all users at the course level
 
